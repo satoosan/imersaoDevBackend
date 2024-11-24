@@ -17,3 +17,10 @@ Na quarta aula da Imersão Dev, aprendemos a enviar informações para a base de
 **Renomeação de Arquivos:** Implementamos a lógica para renomear os arquivos enviados com o ID gerado pelo MongoDB, garantindo uma associação única entre os posts e suas imagens.
 
 Ao final da aula, realizamos testes práticos utilizando o Postman para verificar se os dados estavam sendo corretamente enviados e armazenados.
+
+**Instrutores:**
+- Guilherme Lima
+- Juliana Amoasei
+- André David
+
+Gerado pela Aluri.
