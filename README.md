@@ -17,8 +17,8 @@ Esta documentação cobre os principais conceitos e implementações abordados d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/satoosan/imersaoDevBackend.git
+   cd imersaoDevBackend
    ```
 
 2. **Instale as dependências:**
@@ -39,7 +39,7 @@ Esta documentação cobre os principais conceitos e implementações abordados d
    ```
 
 5. **Acesse a API:**
-   A API estará disponível em `http://localhost:3000`.
+   A API estará disponível em `http://localhost:3000`. Ou caso queira acessar pelo Google Cloud: [Instabytes - Backend](https://instalike-back-449200352006.southamerica-east1.run.app/posts)
 
 ## 
 
