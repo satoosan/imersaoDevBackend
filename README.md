@@ -83,11 +83,31 @@ A função `gerarDescriçãoComGemini` no arquivo `geminiService.js` é respons�
 └── README.md
 ```
 
-## 
+## Realizar testes
+```
+Caso for utilizar o Postman, para realizar alguma operação:
+1 - Para utilizar o Get
+http://localhost:3000/posts ou https://instalike-back-449200352006.southamerica-east1.run.app/posts
+
+2 - Para utilizar o Post
+Em Body, em Key deixe como imagem, e em Value, coloque alguma imagem .png
+
+3 - Para utilizar o Put
+Na rota, http://localhost:3000/upload/:id, coloque o ":id" da imagem, que tem como acessar pelo método Post
+Em Body e em raw, coloque onde está "Text" para "JSON"
+Então:
+  {
+   "alt":"Alguma descrição"
+  }
+Atualize apenas com o ALT, a descrição, o GEMINI irá colocar sozinho
+
+Ou é possível visualizar diretamente pelo arquivo frontend,
+https://github.com/alura-cursos/imersao-backend-gemini-2024-front, apenas seguir o passo a passo no README.
+```
 
 ## Links Úteis
 
 - [Google Gemini](https://cloud.google.com/generative-ai)
 - [Geração da chave de API do Gemini](https://console.cloud.google.com/)
-- [Integração do Front-End com o Back-End](https://github.com/alura-cursos/imersao-backend-gemini-2024-front/archive/refs/heads/main.zip)
+- [Integração do Front-End com o Back-End](https://github.com/alura-cursos/imersao-backend-gemini-2024-front)
 - [Discord da Imersão](https://discord.com/invite/86zUvgfRjN)
