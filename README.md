@@ -1,5 +1,3 @@
-Aqui está o script formatado corretamente em Markdown, pronto para ser copiado e colado:
-
 # Imersão Dev Back-End - Alura
 
 ## Índice
@@ -111,3 +109,7 @@ https://github.com/alura-cursos/imersao-backend-gemini-2024-front, apenas seguir
 - [Geração da chave de API do Gemini](https://console.cloud.google.com/)
 - [Integração do Front-End com o Back-End](https://github.com/alura-cursos/imersao-backend-gemini-2024-front)
 - [Discord da Imersão](https://discord.com/invite/86zUvgfRjN)
+
+Feito pela Aluri
+
+Agradecimento a equipe Alura, [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/), [André David](https://www.linkedin.com/in/andrefdavid/), [Juliana Amoasei](https://github.com/JulianaAmoasei) e [Luciano Martins](https://www.linkedin.com/in/lucianommartins/)
