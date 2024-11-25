@@ -89,4 +89,5 @@ A função `gerarDescriçãoComGemini` no arquivo `geminiService.js` é respons�
 
 - [Google Gemini](https://cloud.google.com/generative-ai)
 - [Geração da chave de API do Gemini](https://console.cloud.google.com/)
+- [Integração do Front-End com o Back-End](https://github.com/alura-cursos/imersao-backend-gemini-2024-front/archive/refs/heads/main.zip)
 - [Discord da Imersão](https://discord.com/invite/86zUvgfRjN)
